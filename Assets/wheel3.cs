@@ -1,16 +1,16 @@
 using UnityEngine;
 using System.Collections;
 
-public class RotateCube3 : MonoBehaviour
-{
-
-    void Update()
-    {
-        // transform���擾
+public class MainCharacter3 : MonoBehaviour {
+    void Update () {
+        // transformを取得
         Transform myTransform = this.transform;
 
-        // ���[�J�����W����ɁA��]���擾
+        // ローカル座標を基準に、回転を取得
         Vector3 localAngle = myTransform.localEulerAngles;
-        localAngle.x = -5.0f;
+        localAngle.x = -10.0f; // ローカル座標を基準に、x軸を軸にした回転を10度に変更
+
+        myTransform.localEulerAngles = localAngle; // 回転角度を設定
+
     }
 }
