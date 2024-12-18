@@ -393,10 +393,8 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.28f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.28f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.28f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/wheel1.cs"
-"Assets/wheel2.cs"
-"Assets/wheel3.cs"
-"Assets/wheel4.cs"
+"Assets/follow_cam_script.cs"
+"Assets/rotate_wheels.cs"
 -langversion:9.0
 /deterministic
 /optimize+
