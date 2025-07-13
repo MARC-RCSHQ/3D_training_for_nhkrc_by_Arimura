@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Packages/manifest.json
+    m_FilePath: "C:/Users/keiic/\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7/3D Unity Simulator/3D_training_for_nhkrc_by_Arimura/Packages/manifest.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638685516060000000
-    m_Hash: 3803836164
+      ticks: 638711267794447559
+    m_Hash: 2623302610
   m_LockFileStatus:
-    m_FilePath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Packages/packages-lock.json
+    m_FilePath: "C:/Users/keiic/\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7/3D Unity Simulator/3D_training_for_nhkrc_by_Arimura/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638685516060000000
-    m_Hash: 84975534
+      ticks: 638711267794493328
+    m_Hash: 2635600364
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Packages
+m_ProjectPath: "C:/Users/keiic/\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7/3D Unity Simulator/3D_training_for_nhkrc_by_Arimura/Packages"
 m_EditorVersion: 6000.0.28f1 (f336aca0cab5)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.5.2
@@ -27,7 +27,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.5.2
   source: 1
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.collab-proxy
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.collab-proxy"
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -118,8 +119,10 @@ m_ResolvedPackages:
     - 2.4.4
     - 2.5.1
     - 2.5.2
+    - 2.6.0
     compatible:
     - 2.5.2
+    - 2.6.0
     recommended: 2.5.2
     deprecated: []
   dependencies: []
@@ -184,7 +187,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.2
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.feature.development
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.feature.development"
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -280,12 +284,165 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.2
     minimumUnityVersion: 
+- packageId: com.unity.inputsystem@1.11.2
+  testable: 0
+  isDirectDependency: 1
+  version: 1.11.2
+  source: 1
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.inputsystem"
+  assetPath: Packages/com.unity.inputsystem
+  name: com.unity.inputsystem
+  displayName: Input System
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: A new input system which can be used as a more extensible and customizable
+    alternative to Unity's classic input system in UnityEngine.Input.
+  errors: []
+  versions:
+    all:
+    - 0.1.2-preview
+    - 0.2.0-preview
+    - 0.2.1-preview
+    - 0.2.6-preview
+    - 0.2.8-preview
+    - 0.2.10-preview
+    - 0.9.0-preview
+    - 0.9.1-preview
+    - 0.9.2-preview
+    - 0.9.3-preview
+    - 0.9.4-preview
+    - 0.9.5-preview
+    - 0.9.6-preview
+    - 1.0.0-preview
+    - 1.0.0-preview.1
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.0-preview.5
+    - 1.0.0-preview.6
+    - 1.0.0-preview.7
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.1.0-pre.5
+    - 1.1.0-pre.6
+    - 1.1.0-preview.1
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.1
+    - 1.2.0
+    - 1.3.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4
+    - 1.5.0
+    - 1.5.1
+    - 1.6.1
+    - 1.6.3
+    - 1.7.0
+    - 1.8.0-pre.1
+    - 1.8.0-pre.2
+    - 1.8.0
+    - 1.8.1
+    - 1.8.2
+    - 1.9.0
+    - 1.10.0
+    - 1.11.0
+    - 1.11.1
+    - 1.11.2
+    compatible:
+    - 1.11.2
+    recommended: 1.11.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.hierarchycore
+    version: 1.0.0
+  keywords:
+  - input
+  - events
+  - keyboard
+  - mouse
+  - gamepad
+  - touch
+  - vr
+  - xr
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638648557315530000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.11/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/InputSystem.git
+    revision: c8518694c7fdd2c755755e028e2ec19cdceda19b
+    path: 
+  unityLifecycle:
+    version: 1.11.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n- Fixed touch pointers being released twice
+    causing an index out of bounds error. [ISXB-687](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-687)\n-
+    Fixed `NullReferenceException` from disconnecting and reconnecting a GXDKGamepad.\n-
+    Fixed wrong mapping of Xbox Series S|X and Xbox One wireless controllers \"View\"
+    button on macOS.[ISXB-385](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-385)\n-
+    Fixed \"AnalyticsResult\" errors on consoles [ISXB-1107]\n- Fixed wrong `Display
+    Index` value for touchscreen events.[ISXB-1101](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1101)\n-
+    Fixed event handling when using Fixed Update processing where WasPressedThisFrame
+    could appear to true for consecutive frames [ISXB-1006](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1006)\n\n###
+    Added\n- Added the display of the device flag `CanRunInBackground` in device
+    debug view.\n- Added analytics for programmatic `InputAction` setup via `InputActionSetupExtensions`
+    when exiting play-mode.\n\n### Fixed\n- Removed a redundant warning when using
+    fallback code to parse a HID descriptor. (UUM-71260)\n\n### Changed\n- Removed
+    the InputManager to InputSystem project-wide asset migration code for performance
+    improvement (ISX-2086)"}'
+  assetStore:
+    productId: 
+  fingerprint: 3c4a97c3950fef77960981e0fe90613de6e512ee
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 1.11.2
+    minimumUnityVersion: 2019.4.0a1
 - packageId: com.unity.multiplayer.center@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.multiplayer.center
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.multiplayer.center"
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -375,7 +532,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.timeline
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.timeline"
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -558,7 +716,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.ugui
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.ugui"
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -650,7 +809,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.5
   source: 1
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.visualscripting
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.visualscripting"
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -690,7 +850,6 @@ m_ResolvedPackages:
     - 1.7.6
     - 1.7.7
     - 1.7.8
-    - 1.8.0-pre.1
     - 1.8.0
     - 1.9.0
     - 1.9.1
@@ -700,8 +859,7 @@ m_ResolvedPackages:
     compatible:
     - 1.9.5
     recommended: 1.9.5
-    deprecated:
-    - 1.8.0-pre.1
+    deprecated: []
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -767,7 +925,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.accessibility
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.accessibility"
   assetPath: Packages/com.unity.modules.accessibility
   name: com.unity.modules.accessibility
   displayName: Accessibility
@@ -834,7 +993,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.ai
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.ai"
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -901,7 +1061,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.androidjni
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.androidjni"
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -967,7 +1128,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.animation
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.animation"
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1034,7 +1196,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.assetbundle
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.assetbundle"
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1101,7 +1264,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.audio
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.audio"
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1168,7 +1332,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.cloth
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.cloth"
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1239,7 +1404,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.director
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.director"
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1314,7 +1480,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.imageconversion
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.imageconversion"
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1381,7 +1548,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.imgui
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.imgui"
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1448,7 +1616,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.jsonserialize
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.jsonserialize"
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1515,7 +1684,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.particlesystem
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.particlesystem"
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1582,7 +1752,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.physics
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.physics"
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -1649,7 +1820,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.physics2d
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.physics2d"
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1716,7 +1888,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.screencapture
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.screencapture"
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -1787,7 +1960,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.terrain
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.terrain"
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -1854,7 +2028,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.terrainphysics
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.terrainphysics"
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -1929,7 +2104,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.tilemap
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.tilemap"
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -1999,7 +2175,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.ui
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.ui"
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2066,7 +2243,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.uielements
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.uielements"
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2149,7 +2327,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.umbra
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.umbra"
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2216,7 +2395,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.unityanalytics
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.unityanalytics"
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2290,7 +2470,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.unitywebrequest
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.unitywebrequest"
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2357,7 +2538,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle"
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2432,7 +2614,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.unitywebrequestaudio
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio"
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2507,7 +2690,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.unitywebrequesttexture
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture"
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2582,7 +2766,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.unitywebrequestwww
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww"
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2673,7 +2858,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.vehicles
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.vehicles"
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2744,7 +2930,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.video
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.video"
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -2823,7 +3010,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.vr
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.vr"
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2904,7 +3092,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.wind
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.wind"
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -2971,7 +3160,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.xr
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.xr"
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3050,7 +3240,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.subsystems
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.subsystems"
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3121,7 +3312,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.modules.hierarchycore
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.modules.hierarchycore"
   assetPath: Packages/com.unity.modules.hierarchycore
   name: com.unity.modules.hierarchycore
   displayName: Hierarchy Core
@@ -3188,7 +3380,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.22
   source: 1
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.ide.visualstudio
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.ide.visualstudio"
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -3294,7 +3487,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.31
   source: 1
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.ide.rider
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.ide.rider"
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -3413,7 +3607,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.editorcoroutines
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.editorcoroutines"
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -3490,7 +3685,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.2
   source: 1
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.performance.profile-analyzer
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.performance.profile-analyzer"
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -3522,9 +3718,11 @@ m_ResolvedPackages:
     - 1.1.0
     - 1.1.1
     - 1.2.2
+    - 1.2.3
     compatible:
     - 1.2.2
-    recommended: 1.2.2
+    - 1.2.3
+    recommended: 1.2.3
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -3574,7 +3772,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.4.5
   source: 1
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.test-framework
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.test-framework"
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -3737,7 +3936,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.testtools.codecoverage
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.testtools.codecoverage"
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -3860,7 +4060,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.1
   source: 1
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.settings-manager
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.settings-manager"
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -3934,7 +4135,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 1
-  resolvedPath: /Users/keiichi/Documents/nhkrc/3D_training_for_nhkrc_by_Arimura/Library/PackageCache/com.unity.ext.nunit
+  resolvedPath: "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity
+    Simulator\\3D_training_for_nhkrc_by_Arimura\\Library\\PackageCache\\com.unity.ext.nunit"
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit

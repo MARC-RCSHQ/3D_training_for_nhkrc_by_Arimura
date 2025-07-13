@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE5586C5-BAC8-4D60-CE42-5135B1E04C36}|Assembly-CSharp.csproj|C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\assets\\wheel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5586C5-BAC8-4D60-CE42-5135B1E04C36}|Assembly-CSharp.csproj|solutionrelative:assets\\wheel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE5586C5-BAC8-4D60-CE42-5135B1E04C36}|Assembly-CSharp.csproj|c:\\users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3d unity simulator\\3d_training_for_nhkrc_by_arimura\\assets\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5586C5-BAC8-4D60-CE42-5135B1E04C36}|Assembly-CSharp.csproj|solutionrelative:assets\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5586C5-BAC8-4D60-CE42-5135B1E04C36}|Assembly-CSharp.csproj|C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\assets\\wheel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5586C5-BAC8-4D60-CE42-5135B1E04C36}|Assembly-CSharp.csproj|solutionrelative:assets\\wheel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\Assets\\wheel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\wheel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5586C5-BAC8-4D60-CE42-5135B1E04C36}|Assembly-CSharp.csproj|c:\\users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3d unity simulator\\3d_training_for_nhkrc_by_arimura\\assets\\wheel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5586C5-BAC8-4D60-CE42-5135B1E04C36}|Assembly-CSharp.csproj|solutionrelative:assets\\wheel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\Assets\\wheel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\wheel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5586C5-BAC8-4D60-CE42-5135B1E04C36}|Assembly-CSharp.csproj|C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\assets\\wheel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5586C5-BAC8-4D60-CE42-5135B1E04C36}|Assembly-CSharp.csproj|solutionrelative:assets\\wheel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\Assets\\wheel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\wheel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\Assets\\wheel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\wheel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,25 +30,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "wheel2.cs",
               "DocumentMoniker": "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\Assets\\wheel2.cs",
               "RelativeDocumentMoniker": "Assets\\wheel2.cs",
               "ToolTip": "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\Assets\\wheel2.cs",
               "RelativeToolTip": "Assets\\wheel2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T15:06:44.494Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "wheel4.cs",
               "DocumentMoniker": "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\Assets\\wheel4.cs",
               "RelativeDocumentMoniker": "Assets\\wheel4.cs",
@@ -53,12 +55,24 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T15:10:34.78Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewMonoBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\Assets\\NewMonoBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewMonoBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\Assets\\NewMonoBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewMonoBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:14:30.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "wheel3.cs",
               "DocumentMoniker": "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\Assets\\wheel3.cs",
               "RelativeDocumentMoniker": "Assets\\wheel3.cs",
@@ -66,12 +80,11 @@
               "RelativeToolTip": "Assets\\wheel3.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:10:31.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:10:31.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "wheel1.cs",
               "DocumentMoniker": "C:\\Users\\keiic\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3D Unity Simulator\\3D_training_for_nhkrc_by_Arimura\\Assets\\wheel1.cs",
               "RelativeDocumentMoniker": "Assets\\wheel1.cs",
@@ -79,8 +92,7 @@
               "RelativeToolTip": "Assets\\wheel1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:06:47.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:06:47.073Z"
             }
           ]
         }
